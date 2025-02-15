@@ -5,7 +5,12 @@
 
 
 ![20250128_172356](https://github.com/user-attachments/assets/8d5b6dd5-53da-4023-9d0c-7cbd104bf723)
-  
+
+# ᴘᴏʀᴛꜰᴏʟɪᴏ ꜰᴏʀ ᴊᴀᴘᴀɴᴇꜱᴇ ᴜꜱᴇʀꜱ
+
+**ᴡᴇ ᴀʟꜱᴏ ᴘʀᴏᴠɪᴅᴇ ᴘᴏʀᴛꜰᴏʟɪᴏ ꜰᴏʀ ᴊᴀᴘᴀɴᴇꜱᴇ ᴜꜱᴇʀꜱ**
+- **[ᴛʜᴇ ᴊᴀᴘᴀɴᴇꜱᴇ ᴜꜱᴇʀ ᴘᴏʀᴛꜰᴏʟɪᴏ](https://github.com/TeamJapanese/TheJapanese-Users-Portfolio/tree/main/Portfolio)**
+
 # **ᴍɪᴛ ʟɪᴄᴇɴꜱᴇ**
 
 **ᴄᴏᴘʏʀɪɢʜᴛ (ᴄ) 𝟤𝟢𝟤𝟧 [ᴛᴇᴀᴍᴊᴀᴘᴀɴᴇꜱᴇ](https://github.com/TeamJapanese/)**
